@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.acer.pkl">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logokeren"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logokeren"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".home"/>
+        <activity android:name=".splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".students"
+            android:label="@string/title_activity_students"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".techarea"
+            android:label="@string/title_activity_techarea"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".stematel"
+            android:label="@string/title_activity_stematel"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".about" />
+        <activity
+            android:name=".assignment"
+            android:label="@string/title_activity_assignment"
+            android:theme="@style/AppTheme" />
+
+    </application>
+
+</manifest>

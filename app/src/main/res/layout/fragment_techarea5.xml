@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".techarea$PlaceholderFragment">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="20dp">
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:src="@drawable/keperawatan"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aplokasi Ujian Android DII Keperawatan"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:paddingBottom="20dp"/>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:src="@drawable/kambing"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apllikasi Android Penentuan Harga Domba dan Kambing"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:paddingBottom="20dp"/>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:src="@drawable/flash"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Media Pembelaaran Flash dan Video Simulasi Sistem Ekskresi"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:paddingBottom="20dp"/>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:src="@drawable/kenaikankelas"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aplokasi Android Ujian Kenaikan Kelas SD/MI"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:paddingBottom="20dp"/>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:src="@drawable/hafalan"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aplokasi Hafalan Juz Amma"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:paddingBottom="20dp"/>
+
+
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

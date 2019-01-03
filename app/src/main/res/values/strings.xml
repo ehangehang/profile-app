@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">PKL</string>
+    <string name="title_activity_students">students</string>
+    <string name="nama1">Rayhan</string>
+    <string name="nama2">Rafi</string>
+    <string name="nama3">Febri</string>
+    <string name="nama4">Ilham</string>
+    <string name="action_settings">Settings</string>
+    <string name="frag_0">Hello World</string>
+    <string name="frag_1">Ehang Keren</string>
+    <string name="title_activity_techarea">techarea</string>
+    <string name="tech1">Profile</string>
+    <string name="tech2">Team</string>
+    <string name="tech3">Services</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_stematel">stematel</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="title_activity_assignment">assignment</string>
+    <string name="about_nama">Credit\n\nCreated by :\nRayhan Suryatama R.\nRafi Aqnan Pebrian\nIlham Bayu Wibowo\nFebriansyah Rizqi P. S.</string>
+    <string name="about_ehang">
+        Saya adalah seorang siswa SMK Telkom Purwokerto yang memilih bidang keahlian Rekayasa Perangkat Lunak. Hobi Saya bermain video game online dan menonton film bergenre action, horror, thriller, anime, drama, romance dan lain lain.\n\n
+        Biodata :\n
+        Nama : Rayhan Suryatama Raharyawhedi\n
+        TTL : Purwokerto, 29 Desember 2001\n
+        Sekolah : SMK Telkom Purwokerto, Jurusan RPL\n
+        Agama : Islam\n
+        Alamat : Jl. Overste Isdiman No. 20\n
+        Hobby : Bermain video game dan menonton film\n
+        Motto Hidup : Everything is going to be ok, for real
+    </string>
+    <string name="about_duler">
+        Lahir pada tanggal 15 Februari 2002,di Pemalang,Jawa Tengah.Saya adalah siswa SMK Telkom Purwokerto kelas XI RPL 4 di bidang Rekayasa Perangkat Lunak.Saya memiliki hobi olahraga dan menggambar.Kadang kalo tidak ada kegiatan saya bermain game dan menonton film.Moto hidup saya yaitu Mandiri Dalam Berkerja Merdeka Dalam Berkarya.\n\n
+        Biodata : \n
+        Nama : Rafi Aqnan Pebrian\n
+        TTL : Pemalang, 15 Februari 2002\n
+        Sekolah : SMK Telkom Purwokerto, Jurusan RPL\n
+        Agama : Islam\n
+        Alamat : Desa Kendalsari, Kec. Petarukan, Kab. Pemalang\n
+        Hobby : Olahraga dan Bermain Video Game\n
+        Motto Hidup : Mandiri Dalam Berkerja Merdeka Dalam Berkarya
+    </string>
+    <string name="about_pebong">
+        Halo perkenalkan nama saya Febriansyah Rizqi Putra Setiyadi, saya berasal dari SMK Telkom Purwokerto kelas XI RPL 4. Saya lahir pada tanggal 6 Februari di kota Banjarnegara. Saya memiliki hobi olahraga dan menonton film.\n\n
+        Biodata :\n
+        Nama : Febriansyah Rizqi Putra Setiadi\n
+        TTL : Banjarnegara, 6 Februari 2002\n
+        Sekolah : SMK Telkom Purwokerto, Jurusan RPL\n
+        Agama : Islam\n
+        Alamat : Argasoka RT 1 / RW 12, Kec. Banjarnegara, Kab. Banjarnegara\n
+        Hobby : Olahraga dan Menonton Film\n
+        Motto Hidup : Mencoba lebih baik dan lebih baik lagi
+    </string>
+    <string name="about_ilbay">
+        Lahir pada tanggal 5 Januari 2002, di Banjarnegara, Jawa Tengah. Di SMK Telkom saya memilih bidang keahlian Rekayasa Perangkat Lunak. Hobi saya bermain gitar, bermain game dan olahraga.\n\n
+        Biodata : \n
+        Nama : Ilham Bayu Wibowo\n
+        TTL : Banjarnegara, 5 Januari 2002\n
+        Sekolah : SMK Telkom Purwokerto, Jurusan RPL\n
+        Agama : Islam\n
+        Alamat : Desa Tanjunganom, RT 3 / RW 3, Kec. Rakit, Kab. Banjarnegara\n
+        Hobby : Bermain Gitar, Olahraga, dan Main Game\n
+        Motto Hidup : Percaya diri dan jangan takut mencoba hal baru
+    </string>
+    <string name="profiltecharea">
+        Techarea adalah perusahaan yang bergulat di bidang IT dan Business Development. Terletak di Semarang, Jawa Tengah, tepatnya di Grand Tembalang Regency D3/23, Tembalang, Kota Semarang, Jawa Tengah,Semarang 50277. Techarea memberikan pelayanan servis dan jasa untuk berbagai macam projek. seperti iot, web development, dan android development
+Skill yang dimiliki tim Techarea antara lain Java Programming, Android, C/C++, PHP, Javascript, CSS3, Internet of Things, VB .NET, MATLAB, MySQL, Design UI/UX, HTML5, Hardware Programming, dan PHP Framework.
+Selain skill tersebut, Techarea juga memiliki skill dalam menyelesaikan pemrograman dengan berbagai algoritma seperti Data Mining, Sistem pendukung keputusan, Sistem pakar (Expert System), dan Data Analysis
+    </string>
+    <string name="visitecharea">
+        						Visi: \n
+-Menjadi pusat pengembangan software dan sistem terintegrasi yang memberikan banyak manfaat untuk orang banyak.\n
+						Misi :\n
+-Memanfaatkan teknologi terbaru yang sesuai dan sedang berkembang.\n
+-Menyediakan solusi efektif penggunaan teknologi untuk meningkatkan kualitas hidup.\n
+-Berinovasi untuk mengembangkan produk dan layanan yang memiliki nilai manfaat tinggi.\n
+-Meningkatkan kualitas pelayanan dalam rangka meningkatkan manfaat dan nilai bagi pelanggan dan stakeholder.\n
+    </string>
+    <string name="profilstematel">
+        Telkom Schools SMK Telkom Purwokerto didirikan pada tanggal 30 Januari 1993,
+dengan surat dari Kepala Kantor Wilayah Depdikbud Propinsi Jawa Tengah No.130/103/I/1993 tanggal 22 Januari 1993, tentang persetujuan pendirian sekolah swasta yang diselenggarakan oleh Yayasan Sandhykara Putra Telkom dan diresmikan oleh Menparpostel Bapak Soesilo Soedarman. SMK Telkom Purwokerto beralamat di Jl. DI. Panjaitan no. 128, Purwokerto Kidul, Purwokerto Selatan, Banyumas. SMK Telkom Purwokerto Memiliki 3 program keahlian yaitu, Teknik Komputer dan Jaringan (TKJ), Rekayasa Perangkat Lunak (RPL), Teknik Jaringan Akses(TJA)
+    </string>
+    <string name="visistematel">
+        Visi :\n
+  SMK Telkom Purwokerto menghasilkan lulusan yang profesional di bidang Telematika, unggul di dunia kerja, mempunyai etos kerja tinggi, berbudi pekerti luhur, serta mampu berkompetisi dalam era global sampai dengan tahun 2020.\n
+Misi :\n
+1. Menyelenggarakan proses belajar yang sesuai dengan budaya lokal dan nasional,\n
+2. Menyelenggarakan pendidikan dan latihan yang berwawasan mutu untuk mampu berkompetisi,\n
+3. Mengembangkan sistem pendidikan dan pelatihan yang adaptif, fleksible dan berwawasan global.\n
+    </string>
+    <string name="tja">
+        TJA adalah jurusan yang berkompetisis di bidang,baik jaringan akses kabel maupun nirkabel. Siswa dipersiapkan untuk mampu menangani pembangunan dan pemeliharaan jaringan.
+
+    </string>
+    <string name="tkj">
+        TKJ adalah jurusan yang mendalami cara cara merakit komputer dan instalasi jaringan komputer. Siswa dipersiapkan untuk mampu menghasilkan perancangan dan pembangunan hardware,kemampuan teknik komputer dan instalasi jaringan komputer.
+    </string>
+    <string name="rpl">
+        RPL adalah jurusan yang mendalami cara pengembangan software,meliputi pembuatan,pemeliharaan,manajemen,organisasi dan pengembangannya.
+    </string>
+    <string name="profileapp">
+        Project pertama yang kami buat secara berkelompok adalah aplikasi ini, aplikasi profile.\n
+        Aplikasi profile ini dibuat untuk perkenalan kami di lingkungan kerja Techarea.
+    </string>
+    <string name="profiletimeline">
+        \nTimeline :\n
+        1. Pencarian konten untuk ditaruh di aplikasi\n
+        2. Pembuatan design aplikasi di kertas\n
+        3. Pembuatan design dari kertas ke digital\n
+        4. Pembuatan fitur fitur dasar di Android Studio\n
+        5. Merapihkan fitur fitur dasar yang telah dibuat\n
+        6. Memasukkan konten yang sudah didiskusikan\n
+        7. Mencoba dan mengkoreksi aplikasi
+    </string>
+    <string name="ontime">
+        Aplikasi ini adalah aplikasi presensi untuk memonitor datangnya pegawai anda, memantau kerja lembur, dan menangani permintaan izin atau cuti.
+    </string>
+
+</resources>

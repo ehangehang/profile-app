@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".stematel$PlaceholderFragment">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="20dp">
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="250dp"
+       android:src="@drawable/jja"
+        android:paddingBottom="20dp"/>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="250dp"
+            android:src="@drawable/jjb"
+            android:paddingBottom="20dp"/>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="250dp"
+            android:src="@drawable/jjc"
+            android:paddingBottom="20dp"/>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="250dp"
+            android:src="@drawable/jjd"
+            android:paddingBottom="20dp"/>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="250dp"
+            android:src="@drawable/jje"
+            android:paddingBottom="20dp"/>
+
+    </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>
